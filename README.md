@@ -20,7 +20,7 @@ Put the additional datasets files provided under PaP/datasets/ folder into Trans
 You can reproduce our experiments in our paper with commands `./scripts/<exp_type>/<exp_name>`.
 
 ### Directory Structure
-The directory structure should look like
+The directory structure should look like below
 ```
 PaP/
 |–– datasets/
