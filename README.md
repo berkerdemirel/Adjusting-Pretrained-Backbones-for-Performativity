@@ -1,6 +1,7 @@
 # ADJUSTING PRETRAINED BACKBONES FOR PERFORMATIVITY
 We provide our implementation for PaP (Performativity-aware Predictor).
 
+![Model Figure](figure/pap.png)
 
 ### Install Environment
 Create a conda environment 
