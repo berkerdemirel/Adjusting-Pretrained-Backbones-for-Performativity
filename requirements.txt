@@ -1,0 +1,15 @@
+easydict==1.10
+gdown==4.6.4
+numpy==1.24.2
+pandas==2.2.2
+Pillow==10.3.0
+timm==0.9.7
+torch==2.2.2
+torchvision==0.17.2
+transformers==4.38.1
+wilds==2.0.0
+prettytable==3.10.0
+numba==0.59.1
+torchtext==0.17.2
+wandb==0.17.0
+datasets
